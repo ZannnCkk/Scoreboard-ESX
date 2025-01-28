@@ -24,4 +24,4 @@ Sebelum menginstal script ini, pastikan Anda sudah menginstal **ox_lib**:
 ## ⚙️ Cara Instalasi
 1. Download Dan Masukan ini ke dalam folder `resources` Anda:
    ```bash
-   git clone https://github.com/username/fivem-scoreboard.git
+   https://github.com/ZannnCkk/ScoceBoard-ESX.git

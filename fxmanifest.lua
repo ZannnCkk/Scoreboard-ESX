@@ -13,11 +13,11 @@ shared_scripts {
 }
 
 client_scripts {
-	'client.lua'
+	'cl_scoceboard.lua'
 }
 
 server_scripts {
-	'server.lua'
+	'sv_scoceboard.lua'
 }
 
 depenencies {
